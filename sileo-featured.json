@@ -1,0 +1,31 @@
+{  
+    "class":"FeaturedBannersView",
+    "itemSize":"{263, 148}",
+    "itemCornerRadius":10,
+    "banners":[
+       {  
+          "url":"https://repo.titand3v.com/depictions/nova/assets/feature-banner.png",
+          "title":"Nova",
+          "package":"com.titand3v.nova",
+          "hideShadow":true
+       },
+       {  
+         "url":"https://repo.titand3v.com/depictions/luv/assets/feature-banner.png",
+         "title":"Luv",
+         "package":"com.titand3v.luv",
+         "hideShadow":true
+      },
+      {  
+         "url":"https://repo.titand3v.com/depictions/paradise/assets/feature-banner.png",
+         "title":"Paradise",
+         "package":"com.titand3v.paradise",
+         "hideShadow":true
+      },
+      {  
+         "url":"https://repo.titand3v.com/depictions/avatar/assets/feature-banner.png",
+         "title":"Avatar",
+         "package":"com.titand3v.avatar",
+         "hideShadow":true
+      }
+    ]
+ }
