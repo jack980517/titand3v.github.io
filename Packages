@@ -106,6 +106,24 @@ Depiction: https://titand3v.github.io/depictions/idevices/index.html
 Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
 Name: iDevices
 
+Package: com.titand3v.idevices
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate, applist, com.titand3v.libtitand3vuniversal (>= 1.9)
+Filename: ./debs/com.titand3v.idevices_1.1_iphoneos-arm.deb
+Size: 2100118
+MD5sum: 0804a1a944188bca0896969eae31f1df
+SHA1: fdb036d7fae2a2e62d903608e80d8c95d2921f51
+SHA256: 43a486557e742d046ee28106669db53e009df311f35e2406618ea6576453e215
+Section: Tweaks
+Description: TitanD3v Tweaks
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/idevices/index.html
+Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
+Name: iDevices
+
 Package: com.titand3v.libtitand3vuniversal
 Version: 1.9
 Architecture: iphoneos-arm
