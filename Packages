@@ -2,72 +2,72 @@ Package: com.titand3v.avatar
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 13800
-Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, firmware (>= 14.0)
+Installed-Size: 13352
+Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.titand3v.avatar_1.0_iphoneos-arm.deb
-Size: 11066020
-MD5sum: b2b1e5d6a7060b96c4836233f187973a
-SHA1: acb482a61e6cc91446270b308565494c476d0956
-SHA256: 7fada4b840f3a3c04c54f541ff8884e3bc7af55ba1e71bac27417ad309223b41
+Size: 10971870
+MD5sum: 07d787dda7c8be4cf2d399b73d5a8667
+SHA1: efcfc62640a5b4be4d3a6bc5f3654e5c2135a0ac
+SHA256: f9e15ed62493110882ba4ec32584010d53e7127bd309e1c2f54a93584d523b72
 Section: Tweaks
 Description: Avatar studio for Memoji and Animoji
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/avatar/index.html
-Icon: https://repo.titand3v.com/depictions/avatar/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/avatar/index.html
+Icon: https://titand3v.github.io/depictions/avatar/assets/icon.png
 Name: Avatar
 
 Package: com.titand3v.breezy
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 572
+Installed-Size: 536
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.breezy_1.0_iphoneos-arm.deb
-Size: 198076
-MD5sum: 10ce1a296ee10a898d2bc6c744b64f4b
-SHA1: ab438e2a08b58cf52b96cd41214335cf1f6d454b
-SHA256: 061c560990d2d6eb4d385d504895c499fc42f70084a926fea915b84c08b6b707
+Size: 189260
+MD5sum: 66ce343e10adac3284f0cf2f1a29a0f1
+SHA1: 8c9cde29737b77d5973f32e41129191bd5e8aacf
+SHA256: 651e7b15b8fe2af7f988dfd11e89c9556b199d13cc6883a0acd033a91fc0e871
 Section: Tweaks
 Description: Fake notifications
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/breezy/index.html
-Icon: https://repo.titand3v.com/depictions/breezy/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/breezy/index.html
+Icon: https://titand3v.github.io/depictions/breezy/assets/icon.png
 Name: Breezy
 
 Package: com.titand3v.colourmydock
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 736
+Installed-Size: 728
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.colourmydock_2.0_iphoneos-arm.deb
-Size: 223332
-MD5sum: d8a630a24cc97765b27152a19d5201e9
-SHA1: c3712e9b488870b27ef491122e093b3f43f86236
-SHA256: 9c3a3dcbc6cc23f0f9442ab3d1120f18d60dfb502c92a12d97ad98fee7a7ee27
+Size: 215194
+MD5sum: bb271303051e4c3b3dab04dca4a2f293
+SHA1: ce4de68cb293026e6cab693d02a6789d096b2421
+SHA256: 99882efdeb55856d70d7dbe54329cea8c118e8fc9ea48b578919df5a51a9af0b
 Section: Tweaks
 Description: Colour your dock
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/colourmydock/index.html
-Icon: https://repo.titand3v.com/depictions/colourmydock/icon.png
+Depiction: https://titand3v.github.io/depictions/colourmydock/index.html
+Icon: https://titand3v.github.io/depictions/colourmydock/icon.png
 Name: ColourMyDock
 
 Package: com.titand3v.digitnetic
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 2152
+Installed-Size: 2016
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, libactivator
 Filename: ./debs/com.titand3v.digitnetic_1.1_iphoneos-arm.deb
-Size: 1434506
-MD5sum: 8e295ccb79d40caba690ddd254ce3e3e
-SHA1: 20e0311e82e5971a5b16e106f8c4de05f6eb9d49
-SHA256: cfaf5e2034b3f30f072dfa03f52fe43e16935f84a9b6bee47b98027a81b06ec6
+Size: 1391428
+MD5sum: 6f816ceee425f791ab022419c0fb5e7a
+SHA1: 06ba9d44a19e3fad39f3eaacef4d0647424c04cc
+SHA256: 9816c69484d9909aca37fc26fc972743704ea9b4344f84d7f16fda7cfda9e94c
 Section: Tweaks
 Description: Floating phone keypad and calculator
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/digitnetic/index.html
-Icon: https://repo.titand3v.com/depictions/digitnetic/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/digitnetic/index.html
+Icon: https://titand3v.github.io/depictions/digitnetic/assets/icon.png
 Name: Digitnetic
 
 Package: com.titand3v.flowing
@@ -77,106 +77,34 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.flowing_1.0_iphoneos-arm.deb
-Size: 3878
-MD5sum: 68d932323582a963f8f9fc026f68689e
-SHA1: 9095a90da9ac53272cb864ac855dfd33c98df832
-SHA256: 4a7120d828246e160a539667fa953f68d52f57c8ac74e4f84fc1c537376b28a0
+Size: 3886
+MD5sum: 5154aa1e22ff86391b37708055185c20
+SHA1: 7f59935f3e2e924adde01e73aefd2a04c393d970
+SHA256: 10d4fd0e92e3d6fe2cfa78b19b689c5e0b5f790bfd7fa39e231d07839109ab50
 Section: Tweaks
 Description: Disable paging scrolling on SpringBoard
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/flowing/index.html
-Icon: https://repo.titand3v.com/depictions/nova/flowing/icon.png
+Depiction: https://titand3v.github.io/depictions/flowing/index.html
+Icon: https://titand3v.github.io/depictions/nova/flowing/icon.png
 Name: Flowing
 
 Package: com.titand3v.idevices
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 3288
+Installed-Size: 3120
 Depends: mobilesubstrate, applist, com.titand3v.libtitand3vuniversal (>= 1.9)
 Filename: ./debs/com.titand3v.idevices_1.0_iphoneos-arm.deb
-Size: 2139900
-MD5sum: 1326b04af3cccadd35133af5cf640fad
-SHA1: 954cb4f1ff339af3e189c20017e8380167808ab0
-SHA256: 4949d94f56d8b69c6ffde6761284a1dd6c952200dae98bf9453d09eaf4c878b0
+Size: 2100208
+MD5sum: 714efca276624826a4c74a210f190bfb
+SHA1: d3651665d9c4b05a0a9e61aa0d1d7c077f7b6178
+SHA256: 5d95e337adc4dfde4f41eede557b3c62d165838844532834a74daaea53e49193
 Section: Tweaks
 Description: TitanD3v Tweaks
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/idevices/index.html
-Icon: https://repo.titand3v.com/depictions/idevices/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/idevices/index.html
+Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
 Name: iDevices
-
-Package: com.titand3v.libtitand3vuniversal
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: TitanD3v
-Installed-Size: 12688
-Filename: ./debs/com.titand3v.libtitand3vuniversal_1.6_iphoneos-arm.deb
-Size: 9995016
-MD5sum: 77b5f864743d5df989deb78fe8e2a843
-SHA1: 9576168f227fa1141db337a5233fdb138e77b032
-SHA256: 903f776221920f52507f4117d88556c958b6e6ba4c6d5af357a2a48a9404601d
-Section: System
-Description: TitanD3v universal library!
-Tag: role::developer
-Author: TitanD3v
-Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
-Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
-Name: libTitanD3vUniversal
-
-Package: com.titand3v.libtitand3vuniversal
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: TitanD3v
-Installed-Size: 12704
-Filename: ./debs/com.titand3v.libtitand3vuniversal_1.7_iphoneos-arm.deb
-Size: 10015748
-MD5sum: fb23b024e940b146b253c1e2aef7a13b
-SHA1: 0acddcba06ef56f4f9baed0dce55eebb14e2096a
-SHA256: 57afdbd8f7f857a3e7c46d0c05e6d479d1cd70029a7fa9bdc161d8f23d898e5e
-Section: System
-Description: TitanD3v universal library!
-Tag: role::developer
-Author: TitanD3v
-Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
-Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
-Name: libTitanD3vUniversal
-
-Package: com.titand3v.libtitand3vuniversal
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: TitanD3v
-Installed-Size: 13104
-Filename: ./debs/com.titand3v.libtitand3vuniversal_1.8_iphoneos-arm.deb
-Size: 10097080
-MD5sum: dfc8f0cd3b7be4b486c95f6ddedea74a
-SHA1: b8558816b6c34ab1df73deb7689f259918a4f1dd
-SHA256: c184c38bbf21dbbc56d80ca7053fac6f79ef362a80a06217f20dd42dc0f705df
-Section: System
-Description: TitanD3v universal library!
-Tag: role::developer
-Author: TitanD3v
-Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
-Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
-Name: libTitanD3vUniversal
-
-Package: com.titand3v.libtitand3vuniversal
-Version: 1.9
-Architecture: iphoneos-arm
-Maintainer: TitanD3v
-Installed-Size: 13120
-Filename: ./debs/com.titand3v.libtitand3vuniversal_1.9_iphoneos-arm.deb
-Size: 10108738
-MD5sum: 6c94cb9083c855e5f11506c47153430a
-SHA1: d58aafbbb43324b69eba979cc4c7a9f7607ab307
-SHA256: f7ae41085a350e47e240ee2fbf87d28243b416874127931c52785f299245d517
-Section: System
-Description: TitanD3v universal library!
-Tag: role::developer
-Author: TitanD3v
-Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
-Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
-Name: libTitanD3vUniversal
 
 Package: com.titand3v.luv
 Version: 1.1
@@ -185,105 +113,87 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 712
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.luv_1.1_iphoneos-arm.deb
-Size: 300294
-MD5sum: 3e27d5ba98d1c848236c0beb1cd00ccd
-SHA1: 0b78c4448fb5b151bc01a80ef5f02ec381af291b
-SHA256: ffb7587e05ef2362b70fe8d842ba7da58c0c5ec7a442351a099478c62392974a
+Size: 292334
+MD5sum: b6e3e24d22628588282dd1991d0435b7
+SHA1: 304f5afeff58a32857323be0f93664ce7cf50eba
+SHA256: 2d89d21486d1ebe37c3f1a445c94cfbcfa6011afaa2d17c3bd4b2b2312734dc3
 Section: Tweaks
 Description: TitanD3v Tweaks
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/luv/index.html
-Icon: https://repo.titand3v.com/depictions/luv/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/luv/index.html
+Icon: https://titand3v.github.io/depictions/luv/assets/icon.png
 Name: Luv
 
 Package: com.titand3v.nova
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 1876
+Installed-Size: 1724
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Filename: ./debs/com.titand3v.nova_1.3_iphoneos-arm.deb
-Size: 904846
-MD5sum: c5d932d738421cf89a3d927da8fd6c1b
-SHA1: 684f1ae5b9ebedd7b80048c1657af551b3843b96
-SHA256: cdd34933ab6d14c4af63dae60a2fc179b7daeaca34b6798ff5fae75c0091a2ba
+Size: 862612
+MD5sum: 4c6631f3d811a2e808dc887213a8420a
+SHA1: b8ac0f252244eaa0320c0869b9cd0efed0345099
+SHA256: 150f84bb74be7e5b33f7bc62a4db15557cb3d61081e9908dc257d317ae37b9bb
 Section: Tweaks
 Description: Schedule messages for Message app
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/nova/index.html
-Icon: https://repo.titand3v.com/depictions/nova/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/nova/index.html
+Icon: https://titand3v.github.io/depictions/nova/assets/icon.png
 Name: Nova
 
 Package: com.titand3v.palette
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 3980
+Installed-Size: 3948
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.palette_1.0_iphoneos-arm.deb
-Size: 959876
-MD5sum: 627e91d1fa6ad8fc008117444f5439ee
-SHA1: 9a1db76146ce4e3b01e558a0bfe82a82d0a4ca07
-SHA256: db959e61d9735d145eafbaa5cb9747f7feb721290a21f6d8ca2437880130299a
+Size: 951702
+MD5sum: cf557fc1e1b08e3079dbb9327f040745
+SHA1: 42d02f925e1cbc434ef49a59276e27cd03edf091
+SHA256: ca4b80aa8b30b928020fa1a080ae68721e53aa266a6def3b9fb709d4ae1efd35
 Section: Tweaks
 Description: Add colours to your colelction
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/palette/index.html
-Icon: https://repo.titand3v.com/depictions/palette/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/palette/index.html
+Icon: https://titand3v.github.io/depictions/palette/assets/icon.png
 Name: Palette
 
 Package: com.titand3v.paradise
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 11904
+Installed-Size: 11572
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, firmware (>= 14.0)
 Filename: ./debs/com.titand3v.paradise_1.1_iphoneos-arm.deb
-Size: 9410454
-MD5sum: 730c4d6c6b8e9d71de48a99bd8943cc7
-SHA1: 35f0869bf1928a272b2c11d85e04aa8d4af38dc1
-SHA256: 4509c17cb430badbdec9068e0d0e602f31472000982d47dcb832bd423bb69b4e
+Size: 9300340
+MD5sum: c1761e01959f8bc41526457c53c61d6a
+SHA1: e419dc3aeeac47ff7ff00058e0def163434e2985
+SHA256: f3c95582ea0513638476ed2621dc78754849ac5fa15a81e9033e745dcd833262
 Section: Tweaks
 Description: Customise springboard apps
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/paradise/index.html
-Icon: https://repo.titand3v.com/depictions/paradise/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/paradise/index.html
+Icon: https://titand3v.github.io/depictions/paradise/assets/icon.png
 Name: Paradise
-
-Package: com.titand3v.phoenix
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 3000
-Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
-Filename: ./debs/com.titand3v.phoenix_1.0_iphoneos-arm.deb
-Size: 2025238
-MD5sum: 31c7ab8b1f7aeb02af0698cf72003c3a
-SHA1: 49013116eda2df171946e0b6353ee8bc2b31b7a9
-SHA256: f692011fb4308f4244be6ae5b03bc095c4978b321b02e3feffac627f94849754
-Section: Tweaks
-Description: A redesign of the contact list for the Phone app
-Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/phoenix/index.html
-Icon: https://repo.titand3v.com/depictions/phoenix/assets/icon.png
-Name: Phoenix
 
 Package: com.titand3v.phoenix
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 3000
+Installed-Size: 2968
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal (>= 1.8)
 Filename: ./debs/com.titand3v.phoenix_1.1_iphoneos-arm.deb
-Size: 2028882
-MD5sum: 3a8a0dc407b2e72705a05677145282fe
-SHA1: f75c735b22ebe5ce7ee32c6098b913e4ed7a90c8
-SHA256: 5d87604535c9323a398c7f4a030c51afc34a373b2a9a51493d3e5e574ddd0426
+Size: 2012116
+MD5sum: 9997f247411fc9c3fe3087c84a0e11a3
+SHA1: 5e6eff849dd25b90124ba582b10600460f9454b9
+SHA256: c9743494104aede10ecc331d86a93ee94f9158e1285cc7f5ceec2081461bfb5c
 Section: Tweaks
 Description: A redesign of the contact list for the Phone app
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/phoenix/index.html
-Icon: https://repo.titand3v.com/depictions/phoenix/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/phoenix/index.html
+Icon: https://titand3v.github.io/depictions/phoenix/assets/icon.png
 Name: Phoenix
 
 Package: com.titand3v.speedy
@@ -293,15 +203,15 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 268
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, firmware (>= 14.0)
 Filename: ./debs/com.titand3v.speedy_1.0_iphoneos-arm.deb
-Size: 54210
-MD5sum: 566bd728a76b19d77c7824c7f6ccb581
-SHA1: b2c1037915cbea2e4b3a1bd5b6d547ed10330c35
-SHA256: 4d22b24a3311aacc3e577d3b44bc24383c87da43989dafb6b506f07d18686e7e
+Size: 53940
+MD5sum: 20477151138b3cd5058a8fd0818943e9
+SHA1: 1898c8cf49fe787e34c38423d84a07e09f71127e
+SHA256: 100adc64f326c29fd1bd7bae504f897a9b1ea770b750af0c13558fd14c0d4907
 Section: Tweaks
 Description: Batch uninstall applications on SpringBoard via 3D Touch Menu
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/speedy/index.html
-Icon: https://repo.titand3v.com/depictions/speedy/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/speedy/index.html
+Icon: https://titand3v.github.io/depictions/speedy/assets/icon.png
 Name: Speedy
 
 Package: com.titand3v.substia
@@ -311,33 +221,33 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.substia_1.0_iphoneos-arm.deb
-Size: 10952
-MD5sum: a3b0a415171cd1286b78e24eca07c9c4
-SHA1: 08ed81466022a563ac1777636c8e683943614d78
-SHA256: 55e3c488c0524ec0ffc41863602af5993a1f2fcd58c01ac1f14a716e0aaeb8e7
+Size: 10960
+MD5sum: 050550dad7d57215257b7b731413bbc5
+SHA1: a8e13295776c59190c39817ef4bf865ac59c91e9
+SHA256: 45b2f914e61d3872322fb3532dd355ad93267520ac5bea741a0b2cdda17c9d2d
 Section: Tweaks
 Description: Text replacement
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/substia/index.html
-Icon: https://repo.titand3v.com/depictions/substia/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/substia/index.html
+Icon: https://titand3v.github.io/depictions/substia/assets/icon.png
 Name: Substia
 
 Package: com.titand3v.surge
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
-Installed-Size: 2616
+Installed-Size: 2476
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.surge_1.1_iphoneos-arm.deb
-Size: 2008742
-MD5sum: b44b90f11de93c3e6725a32ee68df978
-SHA1: 2a300c484641e56ed6b5ab5950a69ed771f34e73
-SHA256: 90cdc2df52510397bc1eed809f097b0928a9c01d9a4008edc17ec222bef4900e
+Size: 1968632
+MD5sum: c167f08b69ff405414fad60bcf16cf0f
+SHA1: 58e925b03edd545efb0663a1442587a62c87413f
+SHA256: 6450487b64834e263636a262e2eefa1b07cc974a3159b17d90996a23a3b83fb1
 Section: Tweaks
 Description: Low Power alert
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/surge/index.html
-Icon: https://repo.titand3v.com/depictions/surge/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/surge/index.html
+Icon: https://titand3v.github.io/depictions/surge/assets/icon.png
 Name: Surge
 
 Package: com.titand3v.unique
@@ -347,14 +257,14 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.unique_1.0_iphoneos-arm.deb
-Size: 4850
-MD5sum: a88706c915df5334811c6188e9e67ba1
-SHA1: 40a1e90a53ee151b4306e2a0d970bf5ba1e709c9
-SHA256: 2cb5d59ffa000839eb481eafaaafca33d17a896032d8a6535070b8d6f484f12e
+Size: 4862
+MD5sum: 01c4a0dc7f048331eeaf45c05d6c8ade
+SHA1: 533e887ca9c0936c3b823594869413d214708105
+SHA256: a6666ae634254747250e81d52b61b102715d45eca2bd96fda60e26e4cd5a2124
 Section: Tweaks
 Description: Swipe up on keyboard to paste your device's UDID
 Author: TitanD3v <titand3veloper@gmail.com>
-Depiction: https://repo.titand3v.com/depictions/unique/index.html
-Icon: https://repo.titand3v.com/depictions/unique/assets/icon.png
+Depiction: https://titand3v.github.io/depictions/unique/index.html
+Icon: https://titand3v.github.io/depictions/unique/assets/icon.png
 Name: Unique
 
