@@ -106,6 +106,24 @@ Depiction: https://titand3v.github.io/depictions/idevices/index.html
 Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
 Name: iDevices
 
+Package: com.titand3v.libtitand3vuniversal
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: TitanD3v
+Installed-Size: 13120
+Filename: ./debs/com.titand3v.libtitand3vuniversal_1.9_iphoneos-arm.deb
+Size: 10109950
+MD5sum: dc3b0a51f3a44c224d3ac57c1dcedd27
+SHA1: bc21b2945ef78208e0443fe0ab13803c92980a76
+SHA256: 160f850c652cd63407d87b919846798805b76708c747b66e4331d93a3eda760d
+Section: System
+Description: TitanD3v universal library!
+Tag: role::developer
+Author: TitanD3v
+Depiction: https://titand3v.github.io/depictions/titand3vlib/index.html
+Icon: https://titand3v.github.io/depictions/titand3vlib/assets/icon.png
+Name: libTitanD3vUniversal
+
 Package: com.titand3v.luv
 Version: 1.1
 Architecture: iphoneos-arm
